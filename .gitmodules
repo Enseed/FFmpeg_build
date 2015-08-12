@@ -1,0 +1,6 @@
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/Enseed/FFmpeg.git
+[submodule "zlib_bin"]
+	path = zlib_bin
+	url = https://github.com/Enseed/zlib_bin.git
